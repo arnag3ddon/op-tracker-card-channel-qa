@@ -1,0 +1,13 @@
+{
+  "channel": "qa",
+  "format_version": 1,
+  "latest": {
+    "catalog_revision": 1,
+    "file_sha256": "5c98e6fbd2e75b3b7f899f403c5fe8e175d8a80d903a44c89ed60355f5c06187",
+    "generated_at": "2026-10-03T15:23:42.424195+00:00",
+    "package_id": "OPMT_QA_CHANNEL_R1_20261003T152342Z",
+    "package_url": "OPMT_QA_CHANNEL_R1_20261003T152342Z.5c98e6fb.package.json",
+    "supersedes": "BASELINE_V16",
+    "trusted_key_id": "opmt-card-data-qa-v1"
+  }
+}
