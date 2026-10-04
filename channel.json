@@ -1,13 +1,13 @@
 {
-  "channel": "qa",
+  "channel": "p6-canary-test-only",
   "format_version": 1,
   "latest": {
-    "catalog_revision": 1,
-    "file_sha256": "5c98e6fbd2e75b3b7f899f403c5fe8e175d8a80d903a44c89ed60355f5c06187",
-    "generated_at": "2026-10-03T15:23:42.424195+00:00",
-    "package_id": "OPMT_QA_CHANNEL_R1_20261003T152342Z",
-    "package_url": "OPMT_QA_CHANNEL_R1_20261003T152342Z.package.json",
-    "supersedes": "BASELINE_V16",
-    "trusted_key_id": "opmt-card-data-qa-v1"
+    "catalog_revision": 2,
+    "file_sha256": "11758de76426f4f96f9a8d4c59857c076662d5be577c30d8db8881eaa06e5256",
+    "generated_at": "2026-10-04T19:45:55.742413+00:00",
+    "package_id": "OPMT_P6_CANARY_DELTA_R2_20261004T194555Z",
+    "package_url": "OPMT_P6_CANARY_DELTA_R2_20261004T194555Z.11758de76426.package.json",
+    "supersedes": "OPMT_CARD_DATA_R1_20261004T090553Z",
+    "trusted_key_id": "opmt-card-data-p6-canary-20261004"
   }
 }
