@@ -3,11 +3,11 @@
   "format_version": 1,
   "latest": {
     "catalog_revision": 2,
-    "file_sha256": "11758de76426f4f96f9a8d4c59857c076662d5be577c30d8db8881eaa06e5256",
-    "generated_at": "2026-10-04T19:45:55.742413+00:00",
-    "package_id": "OPMT_P6_CANARY_DELTA_R2_20261004T194555Z",
-    "package_url": "OPMT_P6_CANARY_DELTA_R2_20261004T194555Z.11758de76426.package.json",
+    "file_sha256": "4fafe19c2fc69cc4ec6a7d297c0d4c2a73880987cde166ac81d45f88e9beb92a",
+    "generated_at": "2026-10-04T20:04:00.715898+00:00",
+    "package_id": "OPMT_P6_CANARY_META_R2_20261004T200400Z",
+    "package_url": "OPMT_P6_CANARY_META_R2_20261004T200400Z.4fafe19c2fc6.package.json",
     "supersedes": "OPMT_CARD_DATA_R1_20261004T090553Z",
-    "trusted_key_id": "opmt-card-data-p6-canary-20261004"
+    "trusted_key_id": "opmt-card-data-p6-canary-v2-20261004"
   }
 }
